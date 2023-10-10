@@ -11,6 +11,6 @@
 
 ### Ressources:
 
-> [Logo] (https://www.freepik.com/free-vector/restaurant-logo_769706.htm)
-> [Fonts](https://fontawesome.com/?from=io)
-> [Framework](https://getbootstrap.com/)
++ [Logo](https://www.freepik.com/free-vector/restaurant-logo_769706.htm)
++ [Fonts](https://fontawesome.com/?from=io)
++ [Framework](https://getbootstrap.com/)
