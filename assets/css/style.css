@@ -738,14 +738,33 @@ section, section.white-bg {
     border-top: 30px solid #222;
 }
 
-.left-half {
-    border-right: 15px solid #222;
+
+@media (min-width: 768px) {
+    .left-half {
+        border-left: 15px solid #222;
+    }
+}
+@media (max-width: 768px) {
+    .left-half {
+        border-top: 50px solid #222;
+    }
 }
 
-.right-half {
-    border-left: 15px solid #222;
-}
 
+@media (min-width: 768px) {
+    .right-half {
+        border-left: 15px solid #222;
+    }
+}
+@media (max-width: 768px) {
+    .right-half {
+        border-top: 50px solid #222;
+    }
+}
+.top-pad{
+    border-top: 15px solid #222;
+
+}
 .silver-bg {
     background-color: #F2F3F5
 }
